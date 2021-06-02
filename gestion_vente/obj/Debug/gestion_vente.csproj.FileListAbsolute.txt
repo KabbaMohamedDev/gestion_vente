@@ -1,0 +1,35 @@
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\bin\Debug\gestion_vente.exe.config
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\bin\Debug\gestion_vente.exe
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\bin\Debug\gestion_vente.pdb
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.csprojResolveAssemblyReference.cache
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Form1.resources
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Properties.Resources.resources
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.csproj.GenerateResource.Cache
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.exe
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.pdb
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Menu.resources
+c:\users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Categories.resources
+C:\Users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.produits.resources
+C:\Users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Clients.resources
+C:\Users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Commande.resources
+C:\Users\ilyass\documents\visual studio 2012\Projects\gestion_vente\gestion_vente\obj\Debug\gestion_vente.DetailleCommande.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\bin\Debug\gestion_vente.exe.config
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\bin\Debug\gestion_vente.exe
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\bin\Debug\gestion_vente.pdb
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.csprojResolveAssemblyReference.cache
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Categories.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Clients.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Commande.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.crystal.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.DetailleCommande.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Form1.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Menu.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.produits.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.Properties.Resources.resources
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.csproj.GenerateResource.cache
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.exe
+C:\Users\zzz\Desktop\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.pdb
+C:\Users\zzz\Desktop\tdi1.2\stage final\project\gestion_vente\gestion_vente\bin\Debug\gestion_vente.exe.config
+C:\Users\zzz\Desktop\tdi1.2\stage final\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.exe
+C:\Users\zzz\Desktop\tdi1.2\stage final\project\gestion_vente\gestion_vente\obj\Debug\gestion_vente.pdb
